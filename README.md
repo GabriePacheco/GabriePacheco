@@ -1,4 +1,4 @@
-### Hola yo soy Gabriel Pacheco.
+## Hola yo soy Gabriel Pacheco. Desarrollador de software full stack
  
 
 <div style = " display: flex; jusify-content: space-between">
